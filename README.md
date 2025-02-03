@@ -3,7 +3,7 @@ Cog wrapper for deepseek-ai/Janus-Pro-7B
 
 # deepseek-ai/Janus-Pro-7B Cog model
 
-This is an implementation of [deepseek-ai/Janus-Pro-7B)](https://huggingface.co/deepseek-ai/Janus-Pro-7B) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
+This is an implementation of [deepseek-ai/Janus-Pro-7B](https://huggingface.co/deepseek-ai/Janus-Pro-7B) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 Run a prediction:
 
