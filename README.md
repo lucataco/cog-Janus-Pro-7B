@@ -7,7 +7,7 @@ This is an implementation of [deepseek-ai/Janus-Pro-7B](https://huggingface.co/d
 
 Run a prediction:
 
-    cog predict -i image=@doge.png -i question="Convert the formula into latex code"
+    cog predict -i image=@doge.png -i question="explain this meme"
 
 ![meme](doge.png)
 
